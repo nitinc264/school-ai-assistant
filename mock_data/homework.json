@@ -1,0 +1,30 @@
+{
+  "STU001": {
+    "student_name": "Arjun Sharma",
+    "assignments": [
+      { "id": "HW001", "subject": "Mathematics", "title": "Chapter 5 – Quadratic Equations (Ex 5.3)", "description": "Solve problems 1–20 from Exercise 5.3", "assigned_date": "2025-07-20", "due_date": "2025-07-28", "status": "Pending", "priority": "High" },
+      { "id": "HW002", "subject": "Science", "title": "Lab Report – Electrolysis Experiment", "description": "Write a detailed report on the electrolysis experiment conducted on 2025-07-18", "assigned_date": "2025-07-18", "due_date": "2025-07-27", "status": "Pending", "priority": "High" },
+      { "id": "HW003", "subject": "English", "title": "Essay – Impact of Social Media", "description": "Write a 600-word essay on the impact of social media on teenagers", "assigned_date": "2025-07-15", "due_date": "2025-07-25", "status": "Completed", "priority": "Medium" },
+      { "id": "HW004", "subject": "History", "title": "Timeline – Indian Independence Movement", "description": "Create a timeline of key events from 1857 to 1947", "assigned_date": "2025-07-21", "due_date": "2025-07-30", "status": "Pending", "priority": "Medium" },
+      { "id": "HW005", "subject": "Computer Science", "title": "Python Program – File Handling", "description": "Write programs demonstrating file read/write operations", "assigned_date": "2025-07-22", "due_date": "2025-07-29", "status": "Pending", "priority": "High" },
+      { "id": "HW006", "subject": "Hindi", "title": "निबंध – पर्यावरण प्रदूषण", "description": "500 शब्दों में पर्यावरण प्रदूषण पर निबंध लिखें", "assigned_date": "2025-07-19", "due_date": "2025-07-26", "status": "Pending", "priority": "Low" },
+      { "id": "HW007", "subject": "Geography", "title": "Map Work – Natural Resources of India", "description": "Mark and label natural resources on the given outline map of India", "assigned_date": "2025-07-17", "due_date": "2025-07-24", "status": "Completed", "priority": "Medium" }
+    ]
+  },
+  "STU002": {
+    "student_name": "Priya Patel",
+    "assignments": [
+      { "id": "HW101", "subject": "Mathematics", "title": "Chapter 5 – Quadratic Equations (Ex 5.3)", "description": "Solve problems 1–20 from Exercise 5.3", "assigned_date": "2025-07-20", "due_date": "2025-07-28", "status": "Completed", "priority": "High" },
+      { "id": "HW102", "subject": "Science", "title": "Lab Report – Electrolysis Experiment", "description": "Write a detailed report on the electrolysis experiment", "assigned_date": "2025-07-18", "due_date": "2025-07-27", "status": "Completed", "priority": "High" },
+      { "id": "HW103", "subject": "Computer Science", "title": "Python Program – File Handling", "description": "Write programs demonstrating file read/write operations", "assigned_date": "2025-07-22", "due_date": "2025-07-29", "status": "Pending", "priority": "High" }
+    ]
+  },
+  "STU003": {
+    "student_name": "Rohan Gupta",
+    "assignments": [
+      { "id": "HW201", "subject": "Mathematics", "title": "Chapter 3 – Coordinate Geometry (Ex 3.2)", "description": "Solve problems 1–15 from Exercise 3.2", "assigned_date": "2025-07-20", "due_date": "2025-07-28", "status": "Pending", "priority": "High" },
+      { "id": "HW202", "subject": "Science", "title": "Lab Report – Photosynthesis Experiment", "description": "Write a report on the photosynthesis experiment", "assigned_date": "2025-07-18", "due_date": "2025-07-27", "status": "Pending", "priority": "High" },
+      { "id": "HW203", "subject": "English", "title": "Essay – My Role Model", "description": "Write a 500-word essay about your role model", "assigned_date": "2025-07-15", "due_date": "2025-07-25", "status": "Overdue", "priority": "Medium" }
+    ]
+  }
+}

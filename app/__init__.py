@@ -1,0 +1,1 @@
+# School AI ERP Assistant – Application Package

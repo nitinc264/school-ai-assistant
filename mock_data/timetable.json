@@ -1,0 +1,97 @@
+{
+  "STU001": {
+    "student_name": "Arjun Sharma",
+    "class": "10-A",
+    "schedule": {
+      "Monday": [
+        { "period": 1, "time": "08:00–08:45", "subject": "Mathematics", "teacher": "Mr. Verma", "room": "101" },
+        { "period": 2, "time": "08:45–09:30", "subject": "Science", "teacher": "Ms. Kapoor", "room": "Lab-2" },
+        { "period": 3, "time": "09:45–10:30", "subject": "English", "teacher": "Mrs. Mehta", "room": "103" },
+        { "period": 4, "time": "10:30–11:15", "subject": "Hindi", "teacher": "Mrs. Joshi", "room": "104" },
+        { "period": 5, "time": "12:00–12:45", "subject": "Computer Science", "teacher": "Mr. Das", "room": "Lab-1" },
+        { "period": 6, "time": "12:45–13:30", "subject": "Physical Education", "teacher": "Mr. Kumar", "room": "Ground" }
+      ],
+      "Tuesday": [
+        { "period": 1, "time": "08:00–08:45", "subject": "History", "teacher": "Mr. Singh", "room": "105" },
+        { "period": 2, "time": "08:45–09:30", "subject": "Mathematics", "teacher": "Mr. Verma", "room": "101" },
+        { "period": 3, "time": "09:45–10:30", "subject": "Geography", "teacher": "Mr. Rajan", "room": "106" },
+        { "period": 4, "time": "10:30–11:15", "subject": "Science", "teacher": "Ms. Kapoor", "room": "Lab-2" },
+        { "period": 5, "time": "12:00–12:45", "subject": "English", "teacher": "Mrs. Mehta", "room": "103" },
+        { "period": 6, "time": "12:45–13:30", "subject": "Hindi", "teacher": "Mrs. Joshi", "room": "104" }
+      ],
+      "Wednesday": [
+        { "period": 1, "time": "08:00–08:45", "subject": "Computer Science", "teacher": "Mr. Das", "room": "Lab-1" },
+        { "period": 2, "time": "08:45–09:30", "subject": "English", "teacher": "Mrs. Mehta", "room": "103" },
+        { "period": 3, "time": "09:45–10:30", "subject": "Mathematics", "teacher": "Mr. Verma", "room": "101" },
+        { "period": 4, "time": "10:30–11:15", "subject": "History", "teacher": "Mr. Singh", "room": "105" },
+        { "period": 5, "time": "12:00–12:45", "subject": "Geography", "teacher": "Mr. Rajan", "room": "106" },
+        { "period": 6, "time": "12:45–13:30", "subject": "Science", "teacher": "Ms. Kapoor", "room": "Lab-2" }
+      ],
+      "Thursday": [
+        { "period": 1, "time": "08:00–08:45", "subject": "Hindi", "teacher": "Mrs. Joshi", "room": "104" },
+        { "period": 2, "time": "08:45–09:30", "subject": "Mathematics", "teacher": "Mr. Verma", "room": "101" },
+        { "period": 3, "time": "09:45–10:30", "subject": "Science", "teacher": "Ms. Kapoor", "room": "Lab-2" },
+        { "period": 4, "time": "10:30–11:15", "subject": "English", "teacher": "Mrs. Mehta", "room": "103" },
+        { "period": 5, "time": "12:00–12:45", "subject": "Computer Science", "teacher": "Mr. Das", "room": "Lab-1" },
+        { "period": 6, "time": "12:45–13:30", "subject": "Geography", "teacher": "Mr. Rajan", "room": "106" }
+      ],
+      "Friday": [
+        { "period": 1, "time": "08:00–08:45", "subject": "Science", "teacher": "Ms. Kapoor", "room": "Lab-2" },
+        { "period": 2, "time": "08:45–09:30", "subject": "History", "teacher": "Mr. Singh", "room": "105" },
+        { "period": 3, "time": "09:45–10:30", "subject": "Hindi", "teacher": "Mrs. Joshi", "room": "104" },
+        { "period": 4, "time": "10:30–11:15", "subject": "Mathematics", "teacher": "Mr. Verma", "room": "101" },
+        { "period": 5, "time": "12:00–12:45", "subject": "English", "teacher": "Mrs. Mehta", "room": "103" },
+        { "period": 6, "time": "12:45–13:30", "subject": "Computer Science", "teacher": "Mr. Das", "room": "Lab-1" }
+      ],
+      "Saturday": [
+        { "period": 1, "time": "08:00–08:45", "subject": "Mathematics", "teacher": "Mr. Verma", "room": "101" },
+        { "period": 2, "time": "08:45–09:30", "subject": "Geography", "teacher": "Mr. Rajan", "room": "106" },
+        { "period": 3, "time": "09:45–10:30", "subject": "Physical Education", "teacher": "Mr. Kumar", "room": "Ground" }
+      ]
+    }
+  },
+  "STU002": {
+    "student_name": "Priya Patel",
+    "class": "10-B",
+    "schedule": {
+      "Monday": [
+        { "period": 1, "time": "08:00–08:45", "subject": "Science", "teacher": "Ms. Kapoor", "room": "Lab-2" },
+        { "period": 2, "time": "08:45–09:30", "subject": "Mathematics", "teacher": "Mr. Verma", "room": "201" },
+        { "period": 3, "time": "09:45–10:30", "subject": "Computer Science", "teacher": "Mr. Das", "room": "Lab-1" },
+        { "period": 4, "time": "10:30–11:15", "subject": "English", "teacher": "Mrs. Mehta", "room": "203" },
+        { "period": 5, "time": "12:00–12:45", "subject": "History", "teacher": "Mr. Singh", "room": "205" },
+        { "period": 6, "time": "12:45–13:30", "subject": "Hindi", "teacher": "Mrs. Joshi", "room": "204" }
+      ],
+      "Tuesday": [
+        { "period": 1, "time": "08:00–08:45", "subject": "Mathematics", "teacher": "Mr. Verma", "room": "201" },
+        { "period": 2, "time": "08:45–09:30", "subject": "English", "teacher": "Mrs. Mehta", "room": "203" },
+        { "period": 3, "time": "09:45–10:30", "subject": "Science", "teacher": "Ms. Kapoor", "room": "Lab-2" },
+        { "period": 4, "time": "10:30–11:15", "subject": "Geography", "teacher": "Mr. Rajan", "room": "206" },
+        { "period": 5, "time": "12:00–12:45", "subject": "Hindi", "teacher": "Mrs. Joshi", "room": "204" },
+        { "period": 6, "time": "12:45–13:30", "subject": "Computer Science", "teacher": "Mr. Das", "room": "Lab-1" }
+      ]
+    }
+  },
+  "STU003": {
+    "student_name": "Rohan Gupta",
+    "class": "9-A",
+    "schedule": {
+      "Monday": [
+        { "period": 1, "time": "08:00–08:45", "subject": "English", "teacher": "Mrs. Mehta", "room": "303" },
+        { "period": 2, "time": "08:45–09:30", "subject": "Mathematics", "teacher": "Mr. Verma", "room": "301" },
+        { "period": 3, "time": "09:45–10:30", "subject": "Science", "teacher": "Ms. Kapoor", "room": "Lab-2" },
+        { "period": 4, "time": "10:30–11:15", "subject": "Computer Science", "teacher": "Mr. Das", "room": "Lab-1" },
+        { "period": 5, "time": "12:00–12:45", "subject": "History", "teacher": "Mr. Singh", "room": "305" },
+        { "period": 6, "time": "12:45–13:30", "subject": "Geography", "teacher": "Mr. Rajan", "room": "306" }
+      ],
+      "Tuesday": [
+        { "period": 1, "time": "08:00–08:45", "subject": "Mathematics", "teacher": "Mr. Verma", "room": "301" },
+        { "period": 2, "time": "08:45–09:30", "subject": "Hindi", "teacher": "Mrs. Joshi", "room": "304" },
+        { "period": 3, "time": "09:45–10:30", "subject": "English", "teacher": "Mrs. Mehta", "room": "303" },
+        { "period": 4, "time": "10:30–11:15", "subject": "Science", "teacher": "Ms. Kapoor", "room": "Lab-2" },
+        { "period": 5, "time": "12:00–12:45", "subject": "Geography", "teacher": "Mr. Rajan", "room": "306" },
+        { "period": 6, "time": "12:45–13:30", "subject": "Computer Science", "teacher": "Mr. Das", "room": "Lab-1" }
+      ]
+    }
+  }
+}

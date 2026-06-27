@@ -1,0 +1,53 @@
+{
+  "STU001": {
+    "student_name": "Arjun Sharma",
+    "class": "10-A",
+    "academic_year": "2024-2025",
+    "total_classes": 180,
+    "attended": 166,
+    "monthly": {
+      "2025-01": { "total": 24, "attended": 23, "absences": ["2025-01-15"] },
+      "2025-02": { "total": 20, "attended": 18, "absences": ["2025-02-07", "2025-02-21"] },
+      "2025-03": { "total": 26, "attended": 24, "absences": ["2025-03-12", "2025-03-19"] },
+      "2025-04": { "total": 24, "attended": 22, "absences": ["2025-04-03", "2025-04-17"] },
+      "2025-05": { "total": 26, "attended": 24, "absences": ["2025-05-08", "2025-05-22"] },
+      "2025-06": { "total": 22, "attended": 20, "absences": ["2025-06-05", "2025-06-18"] },
+      "2025-07": { "total": 18, "attended": 15, "absences": ["2025-07-02", "2025-07-09", "2025-07-16"] }
+    },
+    "remaining_classes_in_semester": 40
+  },
+  "STU002": {
+    "student_name": "Priya Patel",
+    "class": "10-B",
+    "academic_year": "2024-2025",
+    "total_classes": 180,
+    "attended": 171,
+    "monthly": {
+      "2025-01": { "total": 24, "attended": 24, "absences": [] },
+      "2025-02": { "total": 20, "attended": 19, "absences": ["2025-02-14"] },
+      "2025-03": { "total": 26, "attended": 26, "absences": [] },
+      "2025-04": { "total": 24, "attended": 23, "absences": ["2025-04-10"] },
+      "2025-05": { "total": 26, "attended": 25, "absences": ["2025-05-19"] },
+      "2025-06": { "total": 22, "attended": 22, "absences": [] },
+      "2025-07": { "total": 18, "attended": 17, "absences": ["2025-07-11"] }
+    },
+    "remaining_classes_in_semester": 40
+  },
+  "STU003": {
+    "student_name": "Rohan Gupta",
+    "class": "9-A",
+    "academic_year": "2024-2025",
+    "total_classes": 180,
+    "attended": 144,
+    "monthly": {
+      "2025-01": { "total": 24, "attended": 20, "absences": ["2025-01-06", "2025-01-13", "2025-01-20", "2025-01-27"] },
+      "2025-02": { "total": 20, "attended": 16, "absences": ["2025-02-03", "2025-02-10", "2025-02-17", "2025-02-24"] },
+      "2025-03": { "total": 26, "attended": 22, "absences": ["2025-03-05", "2025-03-12", "2025-03-19", "2025-03-26"] },
+      "2025-04": { "total": 24, "attended": 20, "absences": ["2025-04-02", "2025-04-09", "2025-04-16", "2025-04-23"] },
+      "2025-05": { "total": 26, "attended": 21, "absences": ["2025-05-05", "2025-05-12", "2025-05-19", "2025-05-26", "2025-05-28"] },
+      "2025-06": { "total": 22, "attended": 18, "absences": ["2025-06-04", "2025-06-11", "2025-06-18", "2025-06-25"] },
+      "2025-07": { "total": 18, "attended": 14, "absences": ["2025-07-02", "2025-07-09", "2025-07-16", "2025-07-23"] }
+    },
+    "remaining_classes_in_semester": 40
+  }
+}

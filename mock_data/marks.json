@@ -1,0 +1,71 @@
+{
+  "STU001": {
+    "student_name": "Arjun Sharma",
+    "class": "10-A",
+    "semester": "Semester 1 – 2024-2025",
+    "subjects": {
+      "Mathematics": { "marks": 88, "max": 100, "grade": "A", "teacher": "Mr. Verma" },
+      "Science": { "marks": 76, "max": 100, "grade": "B", "teacher": "Ms. Kapoor" },
+      "English": { "marks": 91, "max": 100, "grade": "A+", "teacher": "Mrs. Mehta" },
+      "History": { "marks": 62, "max": 100, "grade": "C", "teacher": "Mr. Singh" },
+      "Computer Science": { "marks": 95, "max": 100, "grade": "A+", "teacher": "Mr. Das" },
+      "Hindi": { "marks": 79, "max": 100, "grade": "B+", "teacher": "Mrs. Joshi" },
+      "Geography": { "marks": 68, "max": 100, "grade": "C+", "teacher": "Mr. Rajan" }
+    },
+    "exam_dates": {
+      "Mathematics": "2025-08-10",
+      "Science": "2025-08-12",
+      "English": "2025-08-14",
+      "History": "2025-08-16",
+      "Computer Science": "2025-08-18",
+      "Hindi": "2025-08-20",
+      "Geography": "2025-08-22"
+    }
+  },
+  "STU002": {
+    "student_name": "Priya Patel",
+    "class": "10-B",
+    "semester": "Semester 1 – 2024-2025",
+    "subjects": {
+      "Mathematics": { "marks": 97, "max": 100, "grade": "A+", "teacher": "Mr. Verma" },
+      "Science": { "marks": 93, "max": 100, "grade": "A+", "teacher": "Ms. Kapoor" },
+      "English": { "marks": 89, "max": 100, "grade": "A", "teacher": "Mrs. Mehta" },
+      "History": { "marks": 84, "max": 100, "grade": "A", "teacher": "Mr. Singh" },
+      "Computer Science": { "marks": 98, "max": 100, "grade": "A+", "teacher": "Mr. Das" },
+      "Hindi": { "marks": 90, "max": 100, "grade": "A+", "teacher": "Mrs. Joshi" },
+      "Geography": { "marks": 87, "max": 100, "grade": "A", "teacher": "Mr. Rajan" }
+    },
+    "exam_dates": {
+      "Mathematics": "2025-08-10",
+      "Science": "2025-08-12",
+      "English": "2025-08-14",
+      "History": "2025-08-16",
+      "Computer Science": "2025-08-18",
+      "Hindi": "2025-08-20",
+      "Geography": "2025-08-22"
+    }
+  },
+  "STU003": {
+    "student_name": "Rohan Gupta",
+    "class": "9-A",
+    "semester": "Semester 1 – 2024-2025",
+    "subjects": {
+      "Mathematics": { "marks": 55, "max": 100, "grade": "D", "teacher": "Mr. Verma" },
+      "Science": { "marks": 61, "max": 100, "grade": "C", "teacher": "Ms. Kapoor" },
+      "English": { "marks": 70, "max": 100, "grade": "B", "teacher": "Mrs. Mehta" },
+      "History": { "marks": 73, "max": 100, "grade": "B", "teacher": "Mr. Singh" },
+      "Computer Science": { "marks": 80, "max": 100, "grade": "B+", "teacher": "Mr. Das" },
+      "Hindi": { "marks": 82, "max": 100, "grade": "B+", "teacher": "Mrs. Joshi" },
+      "Geography": { "marks": 66, "max": 100, "grade": "C+", "teacher": "Mr. Rajan" }
+    },
+    "exam_dates": {
+      "Mathematics": "2025-08-10",
+      "Science": "2025-08-12",
+      "English": "2025-08-14",
+      "History": "2025-08-16",
+      "Computer Science": "2025-08-18",
+      "Hindi": "2025-08-20",
+      "Geography": "2025-08-22"
+    }
+  }
+}

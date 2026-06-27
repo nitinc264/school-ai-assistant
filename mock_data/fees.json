@@ -1,0 +1,46 @@
+{
+  "STU001": {
+    "student_name": "Arjun Sharma",
+    "class": "10-A",
+    "academic_year": "2024-2025",
+    "total_fees": 75000,
+    "paid": 50000,
+    "pending": 25000,
+    "due_date": "2025-08-01",
+    "payment_history": [
+      { "date": "2025-01-05", "amount": 25000, "status": "Paid", "description": "Term 1 Tuition Fee", "receipt": "RCP-2025-001" },
+      { "date": "2025-02-10", "amount": 10000, "status": "Paid", "description": "Lab & Activity Fee", "receipt": "RCP-2025-002" },
+      { "date": "2025-04-02", "amount": 15000, "status": "Paid", "description": "Term 2 Tuition Fee", "receipt": "RCP-2025-003" },
+      { "date": "2025-07-01", "amount": 25000, "status": "Pending", "description": "Term 3 Tuition Fee", "receipt": null }
+    ]
+  },
+  "STU002": {
+    "student_name": "Priya Patel",
+    "class": "10-B",
+    "academic_year": "2024-2025",
+    "total_fees": 75000,
+    "paid": 75000,
+    "pending": 0,
+    "due_date": null,
+    "payment_history": [
+      { "date": "2025-01-03", "amount": 25000, "status": "Paid", "description": "Term 1 Tuition Fee", "receipt": "RCP-2025-010" },
+      { "date": "2025-02-05", "amount": 10000, "status": "Paid", "description": "Lab & Activity Fee", "receipt": "RCP-2025-011" },
+      { "date": "2025-04-01", "amount": 15000, "status": "Paid", "description": "Term 2 Tuition Fee", "receipt": "RCP-2025-012" },
+      { "date": "2025-07-02", "amount": 25000, "status": "Paid", "description": "Term 3 Tuition Fee", "receipt": "RCP-2025-013" }
+    ]
+  },
+  "STU003": {
+    "student_name": "Rohan Gupta",
+    "class": "9-A",
+    "academic_year": "2024-2025",
+    "total_fees": 65000,
+    "paid": 25000,
+    "pending": 40000,
+    "due_date": "2025-07-15",
+    "payment_history": [
+      { "date": "2025-01-08", "amount": 25000, "status": "Paid", "description": "Term 1 Tuition Fee", "receipt": "RCP-2025-020" },
+      { "date": "2025-04-10", "amount": 15000, "status": "Overdue", "description": "Term 2 Tuition Fee", "receipt": null },
+      { "date": "2025-07-01", "amount": 25000, "status": "Overdue", "description": "Term 3 Tuition Fee", "receipt": null }
+    ]
+  }
+}
